@@ -5,7 +5,7 @@
 - [用户界面](./ui/index.md)
   - [组件](./ui/components.md)
   - [Props](./ui/props.md)
-  - [动态](./ui/dynamic.md)
+  - [动态更新](./ui/dynamic.md)
   - [事件](./ui/events.md)
   - [路由](./ui/routing.md)
   - [列表](./ui/lists.md)
